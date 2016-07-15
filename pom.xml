@@ -51,7 +51,7 @@
       <url>https://oss.sonatype.org/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
-  
+
   <organization>
     <name>Google</name>
     <url>http://www.google.com</url>
@@ -240,7 +240,8 @@
                   <div id="copyright" style="float:left">
                     <p>&copy; 2016 Google -
                       <a href="http://www.google.com/privacy.html">Privacy Policy</a> -
-                      <a href="http://www.google.com/terms_of_service.html">Terms and Conditions</a> -
+                      <a href="http://www.google.com/terms_of_service.html"
+                       >Terms and Conditions</a> -
                       <a href="http://www.google.com/about.html">About Google</a>
                     </p>
                   </div>
